@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/abkhandelwal/FashionStore/issues"
   },
-  "homepage": "https://github.com/abkhandelwal/FashionStore#readme"
+  "homepage": "https://github.com/abkhandelwal/FashionStore#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
